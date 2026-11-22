@@ -32,11 +32,6 @@ Windows 11 26H2 GA Release
         'Get-OSDModulePath',
         'Get-OSDModuleVersion',
         'Get-OSDModuleCache',
-        # OSDCoreLicense
-        'Get-OSDCoreLicense',
-        'Show-OSDCoreLicenseHelp',
-        # RecastOSDCloud
-        'Start-RecastOSDCloudCLI',
         # OSDCoreCache
         'Get-OSDCoreDeploymentDisk',
         # OSDCoreDriverPack

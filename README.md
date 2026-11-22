@@ -1,3 +1,8 @@
+> **Independent V1 development branch** — Modified 2026-11-08 from upstream commit `1bf395f2b673b2874992716a776c0be4a8c98c6e`.
+> Recast license-gated CLI deployment and USB cache features, their license helpers and command help have been removed in full.
+> Use the classic `Start-OSDCloud` / `Start-OSDCloudGUI` workflows. This branch has not been validated in Windows/WinPE; external downloads and services remain dependencies.
+> The `master` branch preserves the vanilla baseline. Original authorship and GPL-3.0 license are retained.
+
 # OSD PowerShell Module
 
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/v/OSD)](https://www.powershellgallery.com/packages/OSD)
